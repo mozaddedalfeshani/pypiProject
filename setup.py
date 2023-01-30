@@ -7,7 +7,7 @@ import os
 # with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 #     long_description = "\n" + fh.read()
 
-VERSION = '0.0.3'
+VERSION = '0.0.5'
 DESCRIPTION = 'It a convertor that you use ! likely'
 LONG_DESCRIPTION = 'A package that convert a line to interger_calculator '
 det = '''
@@ -75,7 +75,8 @@ setup(
     description="A best usefull Function for assistant or text to speech services",
     long_description_content_type="text/markdown",
     long_description=det,
-    packages=find_packages(),
+    packages=['muradian'],
+    # package_dir={'src': 'muradian'},
     install_requires=[],
     keywords=['python', 'calcutor', 'assistant',
               'string calculator'],
