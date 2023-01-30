@@ -1,2 +1,2 @@
-from mustca import avg
-from mustca import stca
+from muradian.mustca import avg
+from muradian.mustca import stca
