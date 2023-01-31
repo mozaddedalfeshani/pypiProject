@@ -22,7 +22,7 @@ def stca(text):
 
   # This is average function
 
-
+        # WASTE FUNCTION BUT IT'S WAS PAST
 # def avg(text):
 #     name = text
 #     # print(name)
@@ -43,7 +43,6 @@ def stca(text):
 
 #     avg = sum / int(total_number)
 #     return avg
-
 
 
 def msum(text):
