@@ -1,9 +1,10 @@
+
 ![python function](https://miro.medium.com/max/1400/1*WWrXceae4H_klzpPU6h7Hg.png)
 **Why you should choose that , let's check**
 
-> Simple and powerfull 
-> Best for discord bot reply Best for where string
-> passing by input(a line)
+> Simple and powerfull ,
+> Best for discord bot reply Best for where string,
+> simple function with high return
 
 
 ## **How to import**
@@ -46,12 +47,8 @@ print(mustca.msum('2 2 2')
 ```
 	output: 2
 ```
-average beetween some number, lets example:
-how it's work let's check ,*Skeleton*:
-```
-number = '2 4 5 6'
-print(msc.mavg(number) // it will print the average value
-```
+
 ## contact:
 [Github](https://github.com/mozaddedalfeshani) </br>
 [messenger](m.me/mozaddedalfeshani)
+
