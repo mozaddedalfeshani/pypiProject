@@ -7,60 +7,63 @@ import os
 # with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 #     long_description = "\n" + fh.read()
 
-VERSION = '0.0.5'
+VERSION = '0.0.6'
 DESCRIPTION = 'It a convertor that you use ! likely'
 LONG_DESCRIPTION = 'A package that convert a line to interger_calculator '
 det = '''
-Why you should choose that , let's check
 
-Simple and powerfull
-Best for discord bot reply
-Best for where string passing by input(a line)
+![python function](https://miro.medium.com/max/1400/1*WWrXceae4H_klzpPU6h7Hg.png)
+**Why you should choose that , let's check**
 
-*Function*
-```
-There have 2 function , The first one is stca and last one avg:
-what's and how it work's let's check
-```
+> Simple and powerfull ,
+> Best for discord bot reply Best for where string,
+> simple function with high return
+
+
+## **How to import**
 
 ```
 import muradian
+from muradian import msc
 ```
 
-*how to pass string , example :*
+
+
+## Fixed number calculation
 ```
-for stca function,
-Skeleton: stca('digit firstNum operator lastNum')
+msc.stca('digit firstNum operator lastNum
 
 genarally use: stca('1 2 pl 3')
-
 here,
 1 is digit (how many digit you want to use)
-
 2 and 3 is digit that will summation by 'pl' command
 
-  
-```
-*more example :*
- ```
-2 23 mi 21
-
+		print('2 23 mi 21') 
 pl = Pluse / Summation
-
 mi = Substraction
-
 mu = Multiplication
-
 di = Division
-
-  
-```
-average beetween some number, lets example:
-how it's work let's check ,*Skeleton*:
-```
-avg('total_value digit n1 n2 n*') //return the average value of n number
 ```
 
+## 1 to N number
+*how to pass string to for sum , example :*
+```
+print(mustca.msum('1 2 3 4')
+```
+```
+	output: 10
+```
+how to pass string to for avg , example :*
+```
+print(mustca.msum('2 2 2')
+```
+```
+	output: 2
+```
+
+## contact:
+[Github](https://github.com/mozaddedalfeshani) </br>
+[messenger](m.me/mozaddedalfeshani)
 
 
 '''
